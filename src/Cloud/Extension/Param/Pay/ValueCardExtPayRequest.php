@@ -2,7 +2,6 @@
 
 namespace Com\Youzan\Cloud\Extension\Param\Pay;
 
-use Java\Lang\String;
 use DateTime;
 
 /**
